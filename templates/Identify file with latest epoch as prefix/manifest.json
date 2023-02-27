@@ -7,6 +7,7 @@
 		"ForEach",
 		"Copy"
 	],
+	"documentation": "https://github.com/prasann/adf-docs/blob/main/Identifies%20file%20with%20latest%20epoch%20time%20as%20a%20prefix.md",
 	"requires": {
 		"linkedservices": {
 			"BlobStorage": {
